@@ -1,0 +1,86 @@
+[
+    {
+        "tag": "hello",
+        "patterns": [
+            "Hello",
+            "Hi there",
+            "Good morning",
+            "What's up"
+        ],
+        "responses": [
+            "Hey",
+            "Hello",
+            "Good morning!"
+        ]
+    },
+    {
+        "tag": "noanswer",
+        "patterns": [],
+        "responses": [
+            "Sorry, I can't understand you.",
+            "Please give me more information",
+            "Not sure I understand"
+        ]
+    },
+    {
+        "tag": "job",
+        "patterns": [
+            "What is your job",
+            "What do you do"
+        ],
+        "responses": [
+            "My job is to make you feel like everything is okay.",
+            "I work to serve you as well as possible."
+        ]
+    },
+    {
+        "tag": "age",
+        "patterns": [
+            "What is your age",
+            "How old are you",
+            "When were you born"
+        ],
+        "responses": [
+            "I was born in 2003."
+        ]
+    },
+    {
+        "tag": "weather",
+        "patterns": [
+            "What's the weather like?",
+            "Tell me the current weather",
+            "Is it going to rain today?"
+        ],
+        "responses": [
+            "The weather is looking great today!",
+            "It's sunny and warm outside.",
+            "Expect some rain later in the day."
+        ]
+    },
+    {
+        "tag": "hobby",
+        "patterns": [
+            "What are your hobbies?",
+            "What do you like to do?",
+            "Tell me about your hobbies"
+        ],
+        "responses": [
+            "I enjoy chatting with you!",
+            "I love helping people with their questions.",
+            "Reading and learning new things are my favorite activities."
+        ]
+    },
+    {
+        "tag": "help",
+        "patterns": [
+            "Can you help me?",
+            "I need some assistance",
+            "Help me out"
+        ],
+        "responses": [
+            "Sure, I'm here to help! What do you need?",
+            "I'm happy to assist you. Please tell me more.",
+            "How can I help you today?"
+        ]
+    }
+]
