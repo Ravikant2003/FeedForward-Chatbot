@@ -1,7 +1,9 @@
 # FFNN-Chatbot (FFNN- Feed Forward Neural Network)
 
-# The name of this chatbot has been kept Jarvis
 Description:
+
+The name of this chatbot has been kept Jarvis.
+
 Jarvis is an intelligent conversational agent developed using PyTorch and natural language processing (NLP) techniques. It is designed to handle various user queries and provide contextually relevant responses. The chatbot utilizes a machine learning-based approach, specifically a feedforward neural network trained on a dataset of intents. Natural language processing techniques such as tokenization, bag-of-words representation, and softmax activation are employed to understand user inputs and generate appropriate responses.
 
 Key Features:
